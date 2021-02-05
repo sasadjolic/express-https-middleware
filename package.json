@@ -7,29 +7,14 @@
     "https",
     "redirect"
   ],
-  "homepage": "https://github.com/sasadjolic/express-https-middleware",
   "author": "Sasa Djolic <sasa.djolic@gmail.com> (https://www.linkedin.com/in/sasadjolic/)",
-  "maintainers": [
-    "Sasa Djolic <sasa.djolic@gmail.com> (https://www.linkedin.com/in/sasadjolic/)"
-  ],
-  "contributors": [
-    "Sasa Djolic <sasa.djolic@gmail.com> (https://www.linkedin.com/in/sasadjolic/)"
-  ],
-  "bugs": {
-    "url": "https://github.com/sasadjolic/express-https-middleware/issues"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/sasadjolic/express-https-middleware.git"
   },
-  "scripts": {},
   "directories": {
     "lib": "lib"
   },
-  "main": "./lib",
-  "engines": {
-    "node": "^10.7.0",
-    "npm": "^6.4.1"
-  }
+  "main": "./lib"
 }
